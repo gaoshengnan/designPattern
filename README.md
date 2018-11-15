@@ -1,6 +1,6 @@
 # design_pattern
 
-目录结构可能有点复杂,涵盖自己理解的六大设计原则和23种设计模式
+目录结构可能有点复杂，涵盖自己理解的六大设计原则和23种设计模式
 
 ### desiginPattern-main-java
    com.seina.design
