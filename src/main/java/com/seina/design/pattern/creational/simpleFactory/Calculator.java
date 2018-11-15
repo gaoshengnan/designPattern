@@ -1,4 +1,4 @@
-package com.seina.pattern.creational.SimpleFactory;
+package com.seina.design.pattern.creational.simpleFactory;
 
 import java.util.Scanner;
 

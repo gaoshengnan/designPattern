@@ -1,6 +1,4 @@
-package com.seina.pattern.creational.SimpleFactory;
-
-import jdk.nashorn.internal.ir.ReturnNode;
+package com.seina.design.pattern.creational.simpleFactory;
 
 /**
  * @author Selina
