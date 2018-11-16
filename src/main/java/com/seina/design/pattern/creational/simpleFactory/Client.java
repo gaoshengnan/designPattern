@@ -22,6 +22,7 @@ public class Client {
         System.out.println("请输入数字B：");
         String numB = sc.nextLine();
 
+        //像运算工厂传入+作为参数，返回加法运算的操作实例
         Operation operation = OperationFactory.createOperation(strOperate);
 
         String result = operation.getResult(numA, numB);
