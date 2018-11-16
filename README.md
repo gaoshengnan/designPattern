@@ -1,14 +1,14 @@
 # design_pattern
 
-#### designPattern简介
+## designPattern简介
 
 主要涵盖自己理解的6个设计原则和23种设计模式，大量例子帮助理解抽象的设计模式概念，主要例子来源于大话设计模式，加上自己的整理和详细备注，希望对你有帮助，也是对我学习的总结
 
-#### 目录结构
+## 目录结构
 
 目录结构可能有点复杂，包括设计模式和设计原则，设计模式按照维基百科划分为behacioral、creational、structural
 
-### desiginPattern-main-java
+##### desiginPattern-main-java
    com.seina.design
    
      -pattern（设计模式）
