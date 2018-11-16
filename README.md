@@ -19,6 +19,8 @@
             -abstractFactory（抽象工厂模式)
         -structural
      -principle（设计原则）
+     
+     ...随着我的学习陆续更新中ing
    
 
 > 挑战设计模式，每个程序媛都是女神
