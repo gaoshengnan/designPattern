@@ -13,11 +13,13 @@
    
      -pattern（设计模式）
         -behavioral
+            -strategy(策略模式)
         -creational
             -SimpleFactory（简单工厂模式)
             -FactoryMethod（工厂方法模式)
             -abstractFactory（抽象工厂模式)
         -structural
+            -proxy(代理模式)
      -principle（设计原则）
      
      ...随着我的学习陆续更新中ing
