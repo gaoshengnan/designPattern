@@ -19,6 +19,7 @@
             -FactoryMethod（工厂方法模式)
             -abstractFactory（抽象工厂模式)
         -structural
+            -decorator(装饰模式)
             -proxy(代理模式)
      -principle（设计原则）
      
