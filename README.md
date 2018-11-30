@@ -6,7 +6,7 @@
 
 ## 目录结构
 
-目录结构可能有点复杂，包括设计模式和设计原则，设计模式按照维基百科划分为behacioral行为型模式、creational创建型模式、structural结构型模式
+目录结构可能有点复杂，包括设计模式和设计原则，设计模式按照维基百科划分为behavioral行为型模式、creational创建型模式、structural结构型模式
 
 - 创建型模式，是对对象创建过程的各种问题和解决方案的总结，包括各种工厂模式（Factory、Abstract Factory）、单例模式（Singleton）、构建器模式（Builder）、原型模式（ProtoType）。
 
