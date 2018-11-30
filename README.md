@@ -29,6 +29,7 @@
         -structural
             -decorator(装饰模式)
             -proxy(代理模式)
+            -facade(外观模式)
      -principle（设计原则）
      
      ...随着我的学习陆续更新中ing
