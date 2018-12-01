@@ -1,4 +1,4 @@
-package com.seina.design.pattern.creational.builder.builerPersonV2;
+package com.seina.design.pattern.creational.builder.builderPersonV2;
 
 /**
  * @author Seina

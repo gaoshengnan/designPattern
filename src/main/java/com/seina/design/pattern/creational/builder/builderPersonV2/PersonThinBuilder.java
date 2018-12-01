@@ -1,4 +1,4 @@
-package com.seina.design.pattern.creational.builder.builerPersonV2;
+package com.seina.design.pattern.creational.builder.builderPersonV2;
 
 import com.seina.design.pattern.creational.builder.builderPersonV1.Graphic;
 
