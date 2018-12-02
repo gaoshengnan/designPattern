@@ -21,11 +21,13 @@
         -behavioral
             -strategy(策略模式)
             -templateMrthod(模版方法模式)
+            -observer(观察者模式)
         -creational
             -SimpleFactory（简单工厂模式)
             -FactoryMethod（工厂方法模式)
             -abstractFactory（抽象工厂模式)
             -prototype(原型模式)
+            -builder(建造者模式)
         -structural
             -decorator(装饰模式)
             -proxy(代理模式)
