@@ -22,6 +22,8 @@
             -strategy(策略模式)
             -templateMrthod(模版方法模式)
             -observer(观察者模式)
+            -memento(备忘录模式)
+            -state(状态模式)
         -creational
             -SimpleFactory（简单工厂模式)
             -FactoryMethod（工厂方法模式)
