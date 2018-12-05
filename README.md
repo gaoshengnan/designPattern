@@ -14,7 +14,7 @@
 
 - 行为型模式，是从类或对象之间交互、职责划分等角度总结的模式。比较常见的行为型模式有策略模式（Strategy）、解释器模式（Interpreter）、命令模式（Command）、观察者模式（Observer）、迭代器模式（Iterator）、模板方法模式（Template Method）、访问者模式（Visitor）、状态模式（State）、备忘录模式（Memento）、中介者模式（Mediator）、责任链模式（Chain of Responsibility）。
 
-##### desiginPattern-main-java
+##### designPattern-main-java
    com.seina.design
    
      -pattern（设计模式）
