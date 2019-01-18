@@ -33,40 +33,36 @@ DPT包括设计模式和设计原则，其中设计模式分为以下几种：
 - 行为型模式(behavioral): 是从类或对象之间交互、职责划分等角度总结的模式。
 
 #### 2)designPattern-main-java-com-seina:
-[]()
-     -design.pattern
-        -behavioral(行为型模式)
-            -[strategy(策略模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/behavioral/strategy)
-            -templateMrthod(模版方法模式)
-            -observer(观察者模式)
-            -memento(备忘录模式)
-            -state(状态模式)
-            -chainOfResponsibility(职责链模式)
-            -iterator(迭代器模式)
-            -command(命令模式)
-            -interpreter(解释器模式)
-            -mediator(中介者模式)
-            -visitor(访问者模式)
-            
-        -creational(创建型模式)
-            -SimpleFactory（简单工厂模式)
-            -FactoryMethod（工厂方法模式)
-            -abstractFactory（抽象工厂模式)
-            -prototype(原型模式)
-            -builder(建造者模式)
-            -singleton(单例模式)
-            
-        -structural(结构型模式)
-            -decorator(装饰模式)
-            -proxy(代理模式)
-            -facade(外观模式)
-            -adapter(适配器模式)
-            -bridge(桥接模式)
-            -composite(组合模式)
-            -flyweight(享元模式)
-            
-     -principle（设计原则）
-     
+&emsp;&emsp;design.pattern  
+&emsp;&emsp;&emsp;behavioral(行为型模式)  
+&emsp;&emsp;&emsp;&emsp;[strategy(策略模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/behavioral/strategy)  
+&emsp;&emsp;&emsp;&emsp;[templateMethod(模版方法模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/behavioral/templatemethod)  
+&emsp;&emsp;&emsp;&emsp;[observer(观察者模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/behavioral/observer)  
+&emsp;&emsp;&emsp;&emsp;[memento(备忘录模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/behavioral/memento)  
+&emsp;&emsp;&emsp;&emsp;[state(状态模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/behavioral/state)  
+&emsp;&emsp;&emsp;&emsp;[chainOfResponsibility(职责链模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/behavioral/chainOfResponsibility)  
+&emsp;&emsp;&emsp;&emsp;[iterator(迭代器模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/behavioral/iterator)  
+&emsp;&emsp;&emsp;&emsp;[command(命令模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/behavioral/command)  
+&emsp;&emsp;&emsp;&emsp;[interpreter(解释器模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/behavioral/interpreter)  
+&emsp;&emsp;&emsp;&emsp;[mediator(中介者模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/behavioral/mediator)  
+&emsp;&emsp;&emsp;&emsp;[visitor(访问者模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/behavioral/visitor)  
+&emsp;&emsp;&emsp;creational(创建型模式)  
+&emsp;&emsp;&emsp;&emsp;[SimpleFactory（简单工厂模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/creational/simpleFactory)  
+&emsp;&emsp;&emsp;&emsp;[FactoryMethod（工厂方法模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/creational/factoryMethod)  
+&emsp;&emsp;&emsp;&emsp;[abstractFactory（抽象工厂模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/creational/abstractFactory)  
+&emsp;&emsp;&emsp;&emsp;[prototype(原型模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/creational/prototype)  
+&emsp;&emsp;&emsp;&emsp;[builder(建造者模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/creational/builder)  
+&emsp;&emsp;&emsp;&emsp;[singleton(单例模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/creational/singleton)  
+&emsp;&emsp;&emsp;structural(结构型模式)  
+&emsp;&emsp;&emsp;&emsp;[decorator(装饰模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/structural/decorator)  
+&emsp;&emsp;&emsp;&emsp;[proxy(代理模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/structural/proxy)  
+&emsp;&emsp;&emsp;&emsp;[facade(外观模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/structural/facade)  
+&emsp;&emsp;&emsp;&emsp;[adapter(适配器模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/structural/adapter)  
+&emsp;&emsp;&emsp;&emsp;[bridge(桥接模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/structural/bridge)  
+&emsp;&emsp;&emsp;&emsp;[composite(组合模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/structural/composite)  
+&emsp;&emsp;&emsp;&emsp;[flyweight(享元模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/structural/flyweight)  
+&emsp;&emsp;principle（设计原则）
+
      ...随着我的学习陆续更新中ing
    
 ### 四、加油 
