@@ -37,7 +37,7 @@ DPT包括设计模式和设计原则，其中设计模式分为以下几种：
      -design.pattern
      
         -behavioral(行为型模式)
-            -strategy(策略模式)
+            -[strategy(策略模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/behavioral/strategy)
             -templateMrthod(模版方法模式)
             -observer(观察者模式)
             -memento(备忘录模式)
