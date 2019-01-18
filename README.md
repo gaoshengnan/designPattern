@@ -33,9 +33,8 @@ DPT包括设计模式和设计原则，其中设计模式分为以下几种：
 - 行为型模式(behavioral): 是从类或对象之间交互、职责划分等角度总结的模式。
 
 #### 2)designPattern-main-java-com-seina:
-   
+[]()
      -design.pattern
-     
         -behavioral(行为型模式)
             -[strategy(策略模式)](https://github.com/gaoshengnan/designPattern/tree/master/src/main/java/com/seina/design/pattern/behavioral/strategy)
             -templateMrthod(模版方法模式)
